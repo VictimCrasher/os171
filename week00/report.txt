@@ -1,0 +1,3 @@
+Minggu lalu mahasiswa OS diberikan tugas untuk membuat akun di GitHub, membuat repository os171 di Github, mendaftarkan akun google, dan juga melakukan login ke server badak.
+
+#achmad_firdaus_adinegoro
