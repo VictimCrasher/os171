@@ -20,3 +20,4 @@ drwxr-xr-x  2 achmad.firdaus51 StafCS 4096 Feb 13 15:05 week09
 drwxr-xr-x  2 achmad.firdaus51 StafCS 4096 Feb 13 15:05 week10
 drwxr-xr-x  2 achmad.firdaus51 StafCS 4096 Feb 13 15:05 xtra
 /home/fasilkom/mahasiswa/a/achmad.firdaus51/os171/week01
+Today is 13 Feb 2017 at 15:58:52
