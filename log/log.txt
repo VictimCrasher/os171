@@ -1,3 +1,27 @@
-w01-170213-14-About: Doing Task for week01
-w01-170213-15-About: Doing Task for week01
-w01-170213-15-About: Doing Task for week01
+w01-170213-14-PS-About: Doing Task for week01
+w01-170213-15-PS-About: Doing Task for week01
+w01-170213-15-PS-About: Doing Task for week01
+w02-170220-12-PS-About: Doing Task for week02
+w02-170220-12-PS-About: Doing Task for week02
+w02-170221-13-LR-About: Attending OS Class about C Programming
+w02-170221-13-LR-About: Attending OS Class about C Programming
+w02-170221-14-LR-About: Attending OS Class about C Programming
+w02-170221-14-LR-About: Attending OS Class about C Programming
+w02-170223-10-PS-About: Continuing and Finishing Task for week02
+w02-170223-10-PS-About: Continuing and Finishing Task for week02
+w02-170223-13-PS-About: Practicing C Programming on class
+w02-170223-13-PS-About: Practicing C Programming on class
+w02-170223-14-PS-About: Practicing C Programming on class
+w02-170223-14-PS-About: Practicing C Programming on class
+w02-170223-20-PS-About: Practicing C on online compiler [https://www.tutorialspoint.com/compile_c_online.php]
+w02-170223-20-PS-About: Practicing C on online compiler [https://www.tutorialspoint.com/compile_c_online.php]
+w03-170228-13-LR-About: Attending OS Class about BIOS/UEFI and Booting
+w03-170228-13-LR-About: Attending OS Class about BIOS/UEFI and Booting
+w03-170228-14-PS-About: Quiz on class
+w03-170228-14-DS-About: Discussing about the outcome of the quiz (outside of class ofc)
+w03-170302-13-LR-About: Attending OS Class about MBR and GPT
+w03-170302-13-LR-About: Attending OS Class about MBR and GPT
+w03-170302-14-LR-About: Attending OS Class about Init & Upstart
+w03-170302-14-DS-About: Discussing about additional learning resources
+w03-170303-23-PS-About: Doing Task for week03
+w03-170303-23-PS-About: Doing Task for week03
