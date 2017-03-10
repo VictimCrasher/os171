@@ -25,3 +25,18 @@ w03-170302-14-LR-About: Attending OS Class about Init & Upstart
 w03-170302-14-DS-About: Discussing about additional learning resources
 w03-170303-23-PS-About: Doing Task for week03
 w03-170303-23-PS-About: Doing Task for week03
+w04-170307-13-LR-About: Attending OS Class about boot review, Input Output in Linux and Global-Local Variable Address
+w04-170307-13-LR-About: Attending OS Class about boot review, Input Output in Linux and Global-Local Variable Address
+w04-170307-13-LR-About: Attending OS Class about boot review, Input Output in Linux and Global-Local Variable Address
+w04-170307-14-LR-About: Attending OS Class about boot review, Input Output in Linux and Global-Local Variable Address
+w04-170307-14-LR-About: Attending OS Class about boot review, Input Output in Linux and Global-Local Variable Address
+w04-170309-13-PS-About: Practicing about Global-Local Variable Address in C
+w04-170309-13-PS-About: Practicing about Global-Local Variable Address in C
+w04-170309-14-PS-About: Practicing about Global-Local Variable Address in C
+w04-170309-14-PS-About: Practicing about Global-Local Variable Address in C
+w04-170310-17-PS-About: Doing Task for week02
+w04-170310-18-PS-About: Doing Task for week02
+w04-170310-18-PS-About: Doing Task for week02
+w04-170310-19-PS-About: Doing Task for week02
+w04-170310-19-PS-About: Doing Task for week02
+w04-170310-20-PS-About: Doing Task for week02
