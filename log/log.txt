@@ -40,3 +40,13 @@ w04-170310-18-PS-About: Doing Task for week02
 w04-170310-19-PS-About: Doing Task for week02
 w04-170310-19-PS-About: Doing Task for week02
 w04-170310-20-PS-About: Doing Task for week02
+w05-170314-13-PS-About: Attending OS Class about Memories
+w05-170314-13-PS-About: Attending OS Class about Memories
+w05-170314-14-PS-About: Attending OS Class about Memories
+w05-170314-14-PS-About: Attending OS Class about Memories
+w05-170316-13-PS-About: Attending OS Class about Memories
+w05-170316-13-PS-About: Attending OS Class about Memories
+w05-170316-14-PS-About: Attending OS Class about Memories
+w05-170316-17-PS-About: Doing task for week05
+w05-170316-18-PS-About: Doing task for week05
+w05-170316-18-PS-About: Doing task for week05
