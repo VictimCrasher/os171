@@ -50,3 +50,56 @@ w05-170316-14-PS-About: Attending OS Class about Memories
 w05-170316-17-PS-About: Doing task for week05
 w05-170316-18-PS-About: Doing task for week05
 w05-170316-18-PS-About: Doing task for week05
+w06-170321-13-PS-About: Practicing Page Table on OS Class
+w06-170321-13-PS-About: Practicing Page Table on OS Class
+w06-170321-14-PS-About: Practicing Page Table on OS Class
+w07-170323-13-PS-About: Practicing the rest of handout on OS Class
+w07-170323-13-PS-About: Practicing the rest of handout on OS Class
+w07-170323-14-PS-About: Practicing the rest of handout on OS Class
+w07-170323-14-PS-About: Practicing the rest of handout on OS Class
+w08-170401-14-LS-About: "Learning the Linux File System" (https://www.youtube.com/watch?v=HIXzJ3Rz9po)
+w08-170401-14-LS-About: "How Linux is Built" (https://www.youtube.com/watch?v=yVpbFMhOAwE)
+w09-170403-19-LS-About: Repeating OS materials from beginning until midterm
+w09-170403-19-LS-About: Repeating OS materials from beginning until midterm
+w09-170403-20-LS-About: Repeating OS materials from beginning until midterm
+w09-170403-20-LS-About: Repeating OS materials from beginning until midterm
+w09-170403-21-LS-About: Repeating OS materials from beginning until midterm
+w09-170403-21-LS-About: Repeating OS materials from beginning until midterm
+w09-170403-22-LS-About: Repeating OS materials from beginning until midterm
+w09-170403-22-LS-About: Repeating OS materials from beginning until midterm
+w09-170403-23-LS-About: Repeating OS materials from beginning until midterm
+w09-170403-23-LS-About: Repeating OS materials from beginning until midterm
+w09-170404-00-LS-About: Repeating OS materials from beginning until midterm
+w09-170404-00-LS-About: Repeating OS materials from beginning until midterm
+w09-170404-01-LS-About: Repeating OS materials from beginning until midterm
+w09-170404-13-PS-About: Midterm
+w09-170404-13-PS-About: Midterm
+w09-170404-14-PS-About: Midterm
+w09-170404-14-PS-About: Midterm
+w09-170405-13-LS-About: Attenting Advance Programming Class about Concurrency (It's related to the material)
+w09-170405-13-LS-About: Attenting Advance Programming Class about Concurrency (It's related to the material)
+w09-170405-14-LS-About: Attenting Advance Programming Class about Concurrency (It's related to the material)
+w09-170405-14-LS-About: Attenting Advance Programming Class about Concurrency (It's related to the material)
+w09-170406-13-LS-About: Attending OS Class about Multiprocess
+w09-170406-13-LS-About: Attending OS Class about Multiprocess
+w09-170406-14-LS-About: Attending OS Class about Multiprocess
+w09-170406-14-LS-About: Attending OS Class about Multiprocess
+w09-170406-18-PS-About: Multiprocess Implementation (From Advance Programming, but IMO it's related to the material)
+w09-170406-18-PS-About: Multiprocess Implementation (From Advance Programming, but IMO it's related to the material)
+w09-170406-19-PS-About: Multiprocess Implementation (From Advance Programming, but IMO it's related to the material)
+w09-170406-19-PS-About: Multiprocess Implementation (From Advance Programming, but IMO it's related to the material)
+w09-170406-20-PS-About: Multiprocess Implementation (From Advance Programming, but IMO it's related to the material)
+w09-170406-20-PS-About: Multiprocess Implementation (From Advance Programming, but IMO it's related to the material)
+w09-170407-13-PS-About: Multiprocess Implementation (From Advance Programming, but IMO it's related to the material)
+w09-170407-13-PS-About: Multiprocess Implementation (From Advance Programming, but IMO it's related to the material)
+w09-170407-14-PS-About: Multiprocess Implementation (From Advance Programming, but IMO it's related to the material)
+w10-170409-00-PS-About: Doing Task for week06
+w10-170409-00-PS-About: Doing Task for week06
+w10-170409-01-PS-About: Doing Task for week06
+w10-170409-01-PS-About: Doing Task for week06
+w10-170409-02-PS-About: Doing Task for week06
+w10-170409-02-PS-About: Doing Task for week06
+w10-170409-03-PS-About: Doing Task for week06
+w10-170409-03-PS-About: Doing Task for week06
+w10-170409-04-PS-About: Doing Task for week06
+w10-170409-04-PS-About: Doing Task for week06
