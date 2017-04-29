@@ -120,3 +120,19 @@ w11-170422-10-PS-About: Doing Task for week07
 w11-170422-11-PS-About: Doing Task for week07
 w11-170422-11-PS-About: Doing Task for week07
 w11-170422-12-PS-About: Doing Task for week07
+w12-170425-13-PS-About: Attending OS class, Practicing Scheduling
+w12-170425-13-PS-About: Attending OS class, Practicing Scheduling
+w12-170425-14-PS-About: Attending OS class, Practicing Scheduling
+w12-170425-14-PS-About: Attending OS class, Practicing Scheduling
+w12-170425-09-PS-About: Doing Lab week 08
+w12-170425-09-PS-About: Doing Lab week 08
+w12-170425-10-PS-About: Doing Lab week 08
+w12-170425-10-PS-About: Doing Lab week 08
+w12-170427-13-PS-About: Attending OS class, Practicing Scheduling
+w12-170427-13-PS-About: Attending OS class, Practicing Scheduling
+w12-170427-14-PS-About: Attending OS class, Practicing Scheduling
+w12-170427-14-PS-About: Attending OS class, Practicing Scheduling
+w12-170425-16-PS-About: Doing Lab week 08
+w12-170425-16-PS-About: Doing Lab week 08
+w12-170429-12-PS-About: Doing Lab week 08
+w12-170429-12-PS-About: Doing Lab week 08
