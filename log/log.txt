@@ -136,3 +136,31 @@ w12-170425-16-PS-About: Doing Lab week 08
 w12-170425-16-PS-About: Doing Lab week 08
 w12-170429-12-PS-About: Doing Lab week 08
 w12-170429-12-PS-About: Doing Lab week 08
+w13-170502-13-LS-About: Attending OS Class, learning about File System.
+w13-170502-13-LS-About: Attending OS Class, learning about File System.
+w13-170502-14-LS-About: Attending OS Class, learning about File System.
+w13-170502-14-LS-About: Attending OS Class, learning about File System.
+w13-170504-13-LS-About: Attending OS Class, learning about Mass Storage, Disk Scheduling & RAID.
+w13-170504-13-LS-About: Attending OS Class, learning about Mass Storage, Disk Scheduling & RAID.
+w13-170504-14-LS-About: Attending OS Class, learning about Mass Storage, Disk Scheduling & RAID.
+w13-170504-14-LS-About: Attending OS Class, learning about Mass Storage, Disk Scheduling & RAID.
+w13-170506-13-PS-About: Attending OS Quiz.
+w13-170506-13-PS-About: Attending OS Quiz.
+w13-170506-14-PS-About: Attending OS Quiz.
+w13-170506-14-PS-About: Attending OS Quiz.
+w14-170509-13-DS-About: Attending OS Class, discussing about previous Quiz.
+w14-170509-13-DS-About: Attending OS Class, discussing about previous Quiz.
+w14-170509-14-DS-About: Attending OS Class, discussing about previous Quiz.
+w14-170509-14-DS-About: Attending OS Class, discussing about previous Quiz.
+w15-170518-13-DS-About: Attending OS Class, discussing about Cloud Computing & Virtualization.
+w15-170518-13-DS-About: Attending OS Class, discussing about Cloud Computing & Virtualization.
+w15-170518-14-DS-About: Attending OS Class, discussing about Cloud Computing & Virtualization.
+w15-170518-14-DS-About: Attending OS Class, discussing about Cloud Computing & Virtualization.
+w15-170518-10-PS-About: Doing Week09-10 Lab.
+w15-170518-10-PS-About: Doing Week09-10 Lab.
+w15-170518-11-PS-About: Doing Week09-10 Lab.
+w15-170518-11-PS-About: Doing Week09-10 Lab.
+w15-170519-00-PS-About: Doing Week09-10 Lab.
+w15-170519-00-PS-About: Doing Week09-10 Lab.
+w15-170519-01-PS-About: Doing Week09-10 Lab.
+w15-170519-01-PS-About: Doing Week09-10 Lab.
